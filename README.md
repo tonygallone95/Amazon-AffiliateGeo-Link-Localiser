@@ -3,6 +3,11 @@ A simple but effective link localizer for Amazon Affiliates.
 
 Overview: This Link Localiser has been built to automatically redirect users to the correct Amazon locale, for example; If you're linking directly to a product on Amazon.co.uk, a user from Canada will also land on Amazon UK and most likely not make a purchase due to overseas shipping. 
 
+This link localiser takes an individual ASIN for each amazon locale you wish to monetize in addition to individual tracking IDs: 
+https://yourwebsite.com/LinkLocaliser.html?UK_ASIN=''&US_ASIN=''&UK_TAG=RYCR_UK&US_TAG=RYCR_US
+
+The end result is a URL that looks like this: (This example is for the US and UK - all locales are supported)
+https://yourwebsite.com/LinkLocaliser.html?UK_ASIN=B005IBKI1W&US_ASIN=B005IBKI1W&UK_TAG=RYCR_UK&US_TAG=RYCR_US
 
 
 Usage:   
