@@ -1,7 +1,11 @@
 # Amazon-AffiliateGeo-Link-Localiser
 A simple but effective link localizer for Amazon Affiliates.
 
-Usage:  
+Overview: This Link Localiser has been built to automatically redirect users to the correct Amazon locale, for example; If you're linking directly to a product on Amazon.co.uk, a user from Canada will also land on Amazon UK and most likely not make a purchase due to overseas shipping. 
+
+
+
+Usage:   
 
   1) 
   2) https://yourwebsite.com/LinkLocaliser.html?UK_ASIN=B005IBKI1W&US_ASIN=B005IBKI1W&UK_TAG=RYCR_UK&US_TAG=RYCR_US
